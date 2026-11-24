@@ -1,1 +1,3 @@
 rgbrg
+git config --global user.name "pawel"
+git config user.email "twoj@email.com"
